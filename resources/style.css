@@ -4,3 +4,9 @@ body {
     font-family: verdana, Verdana, Geneva, Tahoma, sans-serif sans-serif;
     
 }
+
+.header -- main{
+    font-weight: normal;
+    font-size: 50px;
+    font-color: #fff;
+}
